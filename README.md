@@ -3,7 +3,7 @@
 ### I'm a 👨‍💻 student
 
 - 😅 I'm currently learning C++
-- 🎮 I'm learning gamedev stuff like SFML, Unity, CTF 2.5
+- 🎮 I'm learning gamedev stuff like SFML
 - 💻 I took some of frontend
 - ⚽️ I really enjoy watching football and playing as well
 - 🎯 My goals: create a cool 3D game !
